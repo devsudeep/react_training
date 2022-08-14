@@ -16,3 +16,8 @@ eslint --init
 
 npm run dev
 ```
+
+install bootstrap, font css
+
+## add css to all react app pages in nextjs
+in pages folder _document.js
