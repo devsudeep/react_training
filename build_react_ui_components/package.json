@@ -1,0 +1,26 @@
+{
+  "name": "build_react_ui_components",
+  "version": "1.0.0",
+  "description": "react_training ## setting up ```sh npm init -y ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-next": "^11.0.1",
+    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
+}
