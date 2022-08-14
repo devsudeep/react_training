@@ -1,10 +1,6 @@
-import { useState } from 'react';
+import App  from '../components/App.js';
 function IndexPage() {
-
-    if (1 == 0) {
-        const [x, setX] = useState();
-    }
-    return <div>Hello from React Ninja</div>
+    return <App />
 }
 
 export default IndexPage

@@ -1,4 +1,4 @@
-https://github.com/brillout/awesome-react-components 
+https://github.com/pkellner/pluralsight-building-essential-ui-data-elements-in-react
 # react_training
 react_training
 ## setting up
